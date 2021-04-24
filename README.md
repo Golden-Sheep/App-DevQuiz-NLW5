@@ -2,7 +2,7 @@
 
 
 <p align="center">
-   <img src="https://github.com/Golden-Sheep/App-DevQuiz-NLW5/blob/main/assets/images/logo.PNG?raw=true" alt="Move It" width="800"/>
+   <img src="https://github.com/Golden-Sheep/App-DevQuiz-NLW5/blob/main/assets/images/bggit.png" alt="Move It" width="800"/>
 </p>
 
 
