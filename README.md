@@ -1,4 +1,4 @@
-# DevQuiz
+# DevQuiz - Flutter
 
 
 <p align="center">
